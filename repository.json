@@ -4,6 +4,10 @@
         {
             "name": "FFVI Worlds Collide",
             "author": "Eatitup_86",
+            "flags": [
+            "pins",
+            "chathud",
+            ]
             "game_name": "Final Fantasy VI Worlds Collide",
             "version": "1.0.0",
             "uid": "ff6wc_eatitup_86",
